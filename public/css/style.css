@@ -1,0 +1,121 @@
+body {
+    background: white;
+}
+
+.navbarstyle{
+    background-color: rgb(227, 240, 242) !important;
+}
+
+.navshift{
+
+    margin-left: 40%;
+}
+
+.navshift>li{
+
+    padding: 3%;
+}
+
+.about{
+
+    margin-top: 3%;
+}
+
+.aboutcol{
+
+    background-color: rgb(132, 215, 230);
+}
+
+.abouttext{
+
+    color: rgb(8, 0, 0); 
+    text-align: justify; 
+    margin: 4%;
+}
+
+.aboutheading{
+
+    padding: 3%;
+}
+
+.aboutheading2{
+
+    padding: 3%;
+    text-align: center;
+}
+
+.loginfo{
+
+    margin: 2%; padding: 4%;
+}
+
+.logbutton{
+
+    margin: 6%; padding: 3%;
+}
+
+.othercontainer{
+
+    background-color: rgb(227, 240, 242); 
+    margin-top: 4%;
+}
+
+.footer{
+
+    text-align: center; 
+    width: 100%;  
+    background-color:#00B8D8; 
+    color: black;
+   
+}
+
+.footer>a{
+    color: white;
+}
+
+.footernav>ul>li{
+    list-style: none;
+    text-align: justify;
+    color: white;
+    font-family: sans-serif;
+    font-size: 90%;
+}
+
+.footernav>ul>li>a{
+
+    color: white;
+    text-decoration: none;
+    margin: 2%;
+}
+
+.footerheading{
+
+    color: white;
+    margin-top: 10%;
+    
+}
+
+
+a:hover{
+
+    color: black !important;
+}
+
+
+.list>ul>li{
+
+    list-style: none;
+    margin: 5%;
+    
+}
+
+hr { 
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    background-color: rgb(67, 159, 174);
+    border-width: 1px;
+}
